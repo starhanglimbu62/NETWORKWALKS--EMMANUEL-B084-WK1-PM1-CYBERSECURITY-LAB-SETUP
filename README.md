@@ -282,7 +282,6 @@ This laboratory is intended strictly for education purposes only.
 **Starhang Limbu**\
 Computer Engineering Student
 
-LinkedIn: _add your link here_ · GitHub: _add your link here_
 
 ---
 
