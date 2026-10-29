@@ -133,7 +133,7 @@ Promiscuous Mode: Allow All
 Cable Connected:  Yes
 ```
 
-![Kali VM network settings](images/1-virtualbox-kali-nat-network.png)
+![Kali VM network settings](1-virtualbox-kali-nat-network.png)
 
 ---
 
@@ -150,7 +150,7 @@ Promiscuous Mode: Allow All
 Cable Connected:  Yes
 ```
 
-![Windows 10 VM network settings](images/2-virtualbox-windows-nat-network.png)
+![Windows 10 VM network settings](2-virtualbox-windows-nat-network.png)
 
 ---
 
@@ -169,7 +169,7 @@ The option *"Require IPv4 addressing for this connection to complete"* was left 
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![Kali static IP configuration](images/3-kali-static-ip.png)
+![Kali static IP configuration](3-kali-static-ip.png)
 
 ---
 
@@ -198,11 +198,11 @@ The snapshot represents the clean baseline of the laboratory. If a future exerci
 
 ### Windows → Kali
 
-![Windows pinging Kali](images/4-windows-ping-kali.png)
+![Windows pinging Kali](4-windows-ping-kali.png)
 
 ### Kali → Windows
 
-![Kali pinging Windows](images/5-kali-ping-windows.png)
+![Kali pinging Windows](5-kali-ping-windows.png)
 
 ### Example Results
 
